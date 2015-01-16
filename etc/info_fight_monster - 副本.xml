@@ -1,0 +1,5 @@
+<moster attack="84" attrib="2" classId="20" define="37" desc="" frameRate="24" icon="cdn/image/res/1" level="4">
+	<skill skillLevel="2" skillId="30048"/>
+	<skill skillLevel="2" skillId="30034"/>
+	<prize desc="" gameId="0" itemSID="80001"/>
+</moster>
